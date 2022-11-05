@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.topheader{
+    color: white;  
+}
+
+.topheader h2{
+    float: left;
+    margin: 20px 0 0 100px;
+}
+
+.topheader h3{
+    float: right;
+    margin: 28px 80px 0 0;
+}
+
+.topheader a{
+    text-decoration: none;
+    color: white;
+}
+
+.topheader a :hover{
+    text-decoration: underline;
+}
+
+.image{
+    height: 500px;
+    width: 100%;
+    background-image: url("images (12)_2.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.header{
+    text-align: center;
+    color: white;
+    margin: 100px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.header p{
+    margin: 7px;
+    font-size: medium;
+}
+
+.header h5{
+    width: 20%;
+    margin: 20px auto auto;
+    border: 1px solid white;
+    border-radius: 25px;
+    padding: 10px;
+    font-size: medium;
+}
+
+.header a{
+    text-decoration: none;
+    color: white;
+}
+
+.heading{
+    text-align: center;
+    margin: 25px;
+    font-family: sans-serif;
+}
+
+.tbody{
+    width: 100%;
+    background-color: rgb(159, 154, 154);
+}
+.body{
+    width: 60%;
+    margin: 0 auto auto;
+}
+
+.bodydiv{
+    width: 50%;
+    float: left;
+    height: 400px;
+    background-color: rgb(31, 3, 56);
+}
+
+.bodydiv img{
+    width: 455px;
+    height: 400px;
+}
+
+.inbodydiv{
+    color: white;
+    margin: 50px;
+    font-family: sans-serif;
+}
+
+.inbodydiv text{
+    color: rgb(93, 76, 108);
+    font-size: small;
+}
+
+.inbodydiv p{
+    color: rgb(171, 166, 166);
+    font-size: small;
+}
+
+.inbodydiv h5{
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 25px;
+    width: 50%;
+    padding: 5px;
+}
+
+.inbodydiv a{
+    color: white;
+    text-decoration: none;
+}
+
+.inbodydiv h6{
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 25px;
+    width: 50%;
+    padding: 5px;
+    font-size: 14px;
+    background-color: rgb(238, 222, 0);
+}
+
+.lowerbodydiv{
+    color: white;
+    margin: 15px 20px 0px 38px;
+    font-family: sans-serif;
+    height: 350px;
+}
+
+.lowerbodydiv text{
+    color: rgb(93, 76, 108);
+    font-size: small;
+}
+
+.lower{
+    width: 90%;
+    height: 250px;
+}
+
+.inlower{
+    width: 45%;
+    float: left;
+    margin: 3% 1%;
+}
+
+.learn a{
+    color: white;
+    text-decoration: none;
+}
+
+.learn a h5{
+    margin-top: 5px;
+    width: 20%;
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 25px;
+    width: 50%;
+    padding: 5px;
+}
+
+.inlower p{
+    color: rgb(171, 166, 166);
+    font-size: small;
+    margin-top: 8px;
+}
+
+.outlower a h5{
+    color: white;
+    border: 1px solid white;
+}
+
+.outlower a{
+    color: white;
+    text-decoration: none;
+}
+
+.footer{
+    width: 68%;
+    height: 300px;
+    margin: 0 auto auto;
+}
+
+.infooter{
+    width: 45%;
+    float: left;
+    margin: 3% 2%;
+    height: 200px;
+}
+
+.infooter img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 5px;
+}
+
+.infooter i{
+    float: left;
+    height: 152px;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px 20px;
+}
+
+.lowerfooter{
+    width: 100%;
+    height: 280px;
+    background-color: yellow;
+}
+
+.marketing{
+    float: left;
+    margin: 20px 80px;
+}
+
+.marketing a{
+    text-decoration: none;
+    color: rgb(117, 101, 79);
+}
+
+.marketing a i{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(19, 15, 15, 0.2);
+    margin: 20px 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.5s ease;
+}
+
+.marketing a i:hover{
+    color: #2426;
+    background-color: #ffffff;
+}
+
+.cr{
+    background-color: yellow;
+    text-align: center;
+    color: rgb(117, 101, 79);
+}
